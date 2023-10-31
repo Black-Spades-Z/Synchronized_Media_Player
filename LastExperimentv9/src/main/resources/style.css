@@ -1,0 +1,34 @@
+#playButton{
+    -fx-graphic: url("icons/play.png");
+    -fx-background-color: transparent;
+}
+#openfileButton{
+    -fx-graphic: url("icons/openfile.png");
+    -fx-background-color: transparent;
+}
+
+#pauseButton{
+    -fx-graphic: url("icons/pause.png");
+    -fx-background-color: transparent;
+}
+
+#stopButton{
+    -fx-graphic: url("icons/stop.png");
+    -fx-background-color: transparent;
+}
+
+#slowerButton{
+    -fx-graphic: url("icons/slower.png");
+    -fx-background-color: transparent;
+}
+
+#fasterButton{
+    -fx-graphic: url("icons/faster.png");
+    -fx-background-color: transparent;
+}
+
+
+#muteButton{
+    -fx-graphic: url('icons/Volume.png');
+    -fx-background-color: transparent;
+}
